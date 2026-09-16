@@ -1,0 +1,17 @@
+{
+  "project": "Data Quality Audit \u2014 Task 24",
+  "track": "Data Analytics",
+  "author": "Naveen Sharma",
+  "gui": "Tkinter",
+  "engine": "Python + Pandas",
+  "demo_rows": 16,
+  "demo_columns": 8,
+  "demo_issues": 8,
+  "demo_quality_score": 67.0,
+  "deliverables": [
+    "audit_report.xlsx",
+    "issue_log.csv",
+    "cleaned_sample.csv",
+    "audit_summary.json"
+  ]
+}

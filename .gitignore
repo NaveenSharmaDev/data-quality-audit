@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+.streamlit/secrets.toml
+
+*.xlsx
+*.log
+
+outputs/*
+!outputs/.gitkeep
+
+.DS_Store
+Thumbs.db
