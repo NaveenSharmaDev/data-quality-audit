@@ -4,6 +4,7 @@
 **Project Type:** Data Quality & Data Validation  
 **Tools & Technologies:** Python, Pandas, Tkinter, Streamlit, Plotly, Excel, CSV, JSON
 
+
 ---
 
 ## Project Overview
@@ -14,7 +15,9 @@ The application provides a repeatable validation checklist, interactive dashboar
 
 The project supports both a **desktop-based Tkinter GUI** and a **modern Streamlit web dashboard**, allowing users to audit CSV and Excel datasets through an easy-to-use interface.
 
+
 ---
+
 
 ## Objective
 
@@ -31,7 +34,9 @@ The primary objective of this project is to:
 - Create a cleaned version of the dataset.
 - Export audit results in Excel, CSV, and JSON formats.
 
+
 ---
+
 
 ## Key Features
 
@@ -49,6 +54,7 @@ The application performs automated checks for:
 - Case inconsistencies
 - Retail calculation inconsistencies
 
+
 ### Data Cleaning
 
 The cleaning pipeline can:
@@ -61,6 +67,7 @@ The cleaning pipeline can:
 - Fill numeric missing values using median values.
 - Fill remaining text missing values with `Unknown`.
 
+
 ### Reporting
 
 The application generates:
@@ -69,6 +76,7 @@ The application generates:
 - Issue log CSV
 - Cleaned dataset CSV
 - Machine-readable JSON summary
+
 
 ### Interactive Dashboard
 
@@ -83,6 +91,7 @@ The Streamlit dashboard provides:
 - Filterable issue report
 - Cleaned data preview
 - Downloadable reports
+
 
 ---
 
